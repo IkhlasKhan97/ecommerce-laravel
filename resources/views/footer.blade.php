@@ -6,6 +6,7 @@
     
   </div>
   <div class="card-footer text-muted">
-    We are here to facilitate you
+    We are here to facilitate you 
+    <h1>Prokeptor</h1>
   </div>
 </div>
